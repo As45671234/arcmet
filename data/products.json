@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "PLASTFOIL Classic",
+      "description": "Надежная гидроизоляция для кровли.",
+      "price": "5000 ₸",
+      "category": "Гидроизоляция",
+      "image": "/img/products/plastfoil.jpg"
+    },
+    {
+      "id": "2",
+      "name": "PENOPLEX Fundament",
+      "description": "Высокопрочная теплоизоляция для фундаментов.",
+      "price": "12000 ₸",
+      "category": "Теплоизоляция",
+      "image": "/img/products/penoplex.jpg"
+    },
+    {
+      "id": "3",
+      "name": "RHEINZINK Roof",
+      "description": "Долговечная кровельная система из цинк-титана.",
+      "price": "25000 ₸",
+      "category": "Кровельные системы",
+      "image": "/img/products/rheinzink.jpg"
+    }
+  ]
+}
